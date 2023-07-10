@@ -1,0 +1,43 @@
+.main {
+  margin-top: 100px;
+  }
+.one{
+  width: 400px;
+  display: block;
+  line-height: 24px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #dfe1e5;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  border-radius: 24px;
+ }
+
+ .picture {
+  display: block;
+  width : 300px;
+  margin-top: 30px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.btn{
+ margin-right: 5px;
+  margin-left: 5px;
+  margin-top: 20px;
+  padding: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-size: 16px;
+  border-radius: 10px;
+  colour: #dfe1e5;
+  font-weight: bold;
+  border: 1px solid #dfe1e5;
+  background: #dfe1e5;
+}
+.btn-wrapper{
+  display: flex;
+  justify-content: center;
+ 
+}
